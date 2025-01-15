@@ -1,12 +1,7 @@
-### Hi 👋 I'm Caio Ribeiro
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=fCaioRibeiro&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fCaioRibeiro&count_private=true&show_icons=true&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fCaioRibeiro&count_private=true&show_icons=true&hide_border=true&layout=compact" />
-</p>
-<hr />
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.instagram.com/fcaioribeiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fcaioribeiro" height="30" width="40" /></a>
-  <a href="https://wa.me/5588981106491" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="fcaioribeiro" height="30" width="40" /></a>
-</p>
+### Olá, meu nome é Francisco Caio Ribeiro!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Caio&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Trabalhando na Setebit<br/> Eu sou desenvolvedor Full Stack Pleno</p>
