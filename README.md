@@ -1,8 +1,8 @@
 ### Hi 👋 I'm Caio Ribeiro
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fCaioRibeiro&count_private=true&show_icons=true&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fCaioRibeiro&count_private=true&show_icons=true&hide_border=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fCaioRibeiro&count_private=false&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fCaioRibeiro&count_private=false&show_icons=true&hide_border=true&layout=compact" />
 </p>
 <hr />
 <h3 align="center">Connect with me:</h3>
